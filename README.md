@@ -48,7 +48,7 @@ Complied Resources for learning Machine Learning & Data Science
 
 > Major/Imp Libs are Numpy, Pandas, Matplotlib, Seaborn,
 -   [ **IP** ] Numpy :
-    -   [ **IP** ] Video Tutorial: [Numpy Crash Course](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+    -   [ x ] Video Tutorial: [Numpy Crash Course](https://www.youtube.com/watch?v=QUT1VHiLmmI)
     -   [ ] Practice: [Numpy 100Q](https://github.com/rougier/numpy-100)
     -   [ ] Docs: [Numpy Docs](https://numpy.org/doc/)
  -   [ ] Pandas :

@@ -32,8 +32,8 @@ Complied Resources for learning Machine Learning & Data Science
 > [Main Topics & Detailed Syllabus](https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b) :  
 > 
 
--   [ ] Linear Algebra :
-    -   [ ] [Essence of Linear Algebra by 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+-   [ **IP** ] Linear Algebra :
+    -   [ **IP** ] [Essence of Linear Algebra by 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
     -   [ ] [GFG Articles for LA](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#alg)
 -   [ ] Calculus :
     -   [ ] [Essence of Linear Calculus by 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
@@ -47,8 +47,8 @@ Complied Resources for learning Machine Learning & Data Science
 ### Data Science Libs
 
 > Major/Imp Libs are Numpy, Pandas, Matplotlib, Seaborn,
--   [ ] Numpy :
-    -   [ ] Video Tutorial: [Numpy Crash Course](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+-   [ **IP** ] Numpy :
+    -   [ **IP** ] Video Tutorial: [Numpy Crash Course](https://www.youtube.com/watch?v=QUT1VHiLmmI)
     -   [ ] Practice: [Numpy 100Q](https://github.com/rougier/numpy-100)
     -   [ ] Docs: [Numpy Docs](https://numpy.org/doc/)
  -   [ ] Pandas :
